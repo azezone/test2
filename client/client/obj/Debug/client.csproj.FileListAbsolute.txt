@@ -1,5 +1,0 @@
-E:\C#WorkSpace\client\client\bin\Debug\client.exe.config
-E:\C#WorkSpace\client\client\bin\Debug\client.exe
-E:\C#WorkSpace\client\client\bin\Debug\client.pdb
-E:\C#WorkSpace\client\client\obj\Debug\client.exe
-E:\C#WorkSpace\client\client\obj\Debug\client.pdb

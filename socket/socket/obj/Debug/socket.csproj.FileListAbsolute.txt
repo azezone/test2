@@ -1,6 +1,0 @@
-E:\C#WorkSpace\socket\socket\bin\Debug\socket.exe.config
-E:\C#WorkSpace\socket\socket\bin\Debug\socket.exe
-E:\C#WorkSpace\socket\socket\bin\Debug\socket.pdb
-E:\C#WorkSpace\socket\socket\obj\Debug\socket.csprojResolveAssemblyReference.cache
-E:\C#WorkSpace\socket\socket\obj\Debug\socket.exe
-E:\C#WorkSpace\socket\socket\obj\Debug\socket.pdb
